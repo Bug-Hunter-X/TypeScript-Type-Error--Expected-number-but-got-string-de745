@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript: passing a string argument to a function expecting a number.  The bug.ts file shows the erroneous code, which results in a type error during compilation. The bugSolution.ts file provides a solution to handle this type of error, enhancing type safety and preventing unexpected runtime behavior.
